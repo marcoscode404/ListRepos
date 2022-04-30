@@ -41,7 +41,10 @@ export function RepositoryList() {
 
 
                 <footer>
-                    🌃🌌☄️ ViniCode - ColabDevs🚀👩‍🚀🧑‍🚀
+                    <a href="https://github.com/marcoscode404" target="_blank">
+                        🌃🌌☄️ ViniCode - ColabDevs🚀👩‍🚀🧑‍🚀
+                    </a>
+                    
                 </footer>
             
             </section>
